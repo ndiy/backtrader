@@ -27,7 +27,7 @@ which can be converted from/to dates
 '''
 
 import datetime
-import warnings
+#import warnings
 
 from matplotlib.dates import AutoDateLocator as ADLocator
 from matplotlib.dates import RRuleLocator as RRLocator
